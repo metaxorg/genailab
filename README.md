@@ -1,2 +1,3 @@
-# genailab
-lab file for gen ai
+# Gen AI App Dev Lab
+
+Lab for Gen AI
